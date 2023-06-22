@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T09:13:23.954Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZN2xXGSH9l2Dups6lCzP" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T09:14:52.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gGsFmxPuy9T3Qvcng6QC" version="21.3.8" type="github">
   <diagram name="Page-1" id="anyHuZpH-Jrk-g-fhOrN">
     <mxGraphModel dx="1224" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,10 +34,10 @@
         <mxCell id="CB1rWN8OY4WiAcrrbTE5-16" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Course Name&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CB1rWN8OY4WiAcrrbTE5-10" vertex="1">
           <mxGeometry y="70" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CB1rWN8OY4WiAcrrbTE5-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Course Name&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CB1rWN8OY4WiAcrrbTE5-10" vertex="1">
+        <mxCell id="CB1rWN8OY4WiAcrrbTE5-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Course Date&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CB1rWN8OY4WiAcrrbTE5-10" vertex="1">
           <mxGeometry y="100" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CB1rWN8OY4WiAcrrbTE5-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Course Name&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CB1rWN8OY4WiAcrrbTE5-10" vertex="1">
+        <mxCell id="CB1rWN8OY4WiAcrrbTE5-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Course Price&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CB1rWN8OY4WiAcrrbTE5-10" vertex="1">
           <mxGeometry y="130" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CB1rWN8OY4WiAcrrbTE5-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Booked Seats&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="CB1rWN8OY4WiAcrrbTE5-10" vertex="1">
