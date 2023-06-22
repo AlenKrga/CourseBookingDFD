@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-22T09:05:45.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="yBLtK0exgkuaKO9isA6j" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T09:13:23.954Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZN2xXGSH9l2Dups6lCzP" version="21.3.8" type="github">
   <diagram name="Page-1" id="anyHuZpH-Jrk-g-fhOrN">
     <mxGraphModel dx="1224" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -20,10 +20,10 @@
           <mxGeometry x="80" y="160" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CB1rWN8OY4WiAcrrbTE5-9" value="Below is the initial design for the GUI of the application." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="90" width="240" height="30" as="geometry" />
+          <mxGeometry x="275" y="100" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CB1rWN8OY4WiAcrrbTE5-10" value="Seat Booking App" style="swimlane;whiteSpace=wrap;html=1;startSize=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#E6E6E6;fillColor=default;swimlaneFillColor=#EDEDED;gradientDirection=south;" parent="1" vertex="1">
-          <mxGeometry x="300" y="420" width="240" height="370" as="geometry" />
+          <mxGeometry x="305" y="400" width="240" height="370" as="geometry" />
         </mxCell>
         <mxCell id="CB1rWN8OY4WiAcrrbTE5-11" value="X" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="CB1rWN8OY4WiAcrrbTE5-10" vertex="1">
           <mxGeometry x="210" width="30" height="30" as="geometry" />
@@ -137,10 +137,10 @@
           <mxGeometry x="100" y="325" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CB1rWN8OY4WiAcrrbTE5-56" value="The GUI seen on starting the application." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="300" y="370" width="240" height="30" as="geometry" />
+          <mxGeometry x="305" y="370" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4bpe8Z8Nb-hG5Liqr54c-5" value="Seat Booking App" style="swimlane;whiteSpace=wrap;html=1;startSize=30;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=#E6E6E6;fillColor=default;swimlaneFillColor=#EDEDED;gradientDirection=south;" vertex="1" parent="1">
-          <mxGeometry x="305" y="860" width="240" height="370" as="geometry" />
+          <mxGeometry x="305" y="810" width="240" height="370" as="geometry" />
         </mxCell>
         <mxCell id="4bpe8Z8Nb-hG5Liqr54c-6" value="X" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="4bpe8Z8Nb-hG5Liqr54c-5">
           <mxGeometry x="210" width="30" height="30" as="geometry" />
@@ -252,6 +252,9 @@
         </mxCell>
         <mxCell id="4bpe8Z8Nb-hG5Liqr54c-42" value="1 of 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="4bpe8Z8Nb-hG5Liqr54c-5">
           <mxGeometry x="100" y="325" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="4bpe8Z8Nb-hG5Liqr54c-43" value="The GUI viewing, open file and editing the booked seats." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="780" width="320" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
